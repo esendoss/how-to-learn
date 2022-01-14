@@ -12,15 +12,13 @@
     min-height: 600px;
     min-height: 756px;
 }
-.logo {
-    width: 183px;
-    height: 32px;
-}
 .logo_place_header {
     position: absolute;
     top: 30px;
     left: 64px;
     z-index: 4;
+    width: 183px;
+    height: 32px;
 }
 .header__title {
     margin: 0 0 0 64px;
@@ -242,7 +240,6 @@ p:last-of-type {
     justify-content: space-between;
 }
 .logo_place_footer {
-    background-image: url(./images/logo_place_footer.svg);
     height: 35px;
     width: 183px;
 }
